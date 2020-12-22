@@ -2,7 +2,7 @@
  i have used a csv file input where different subjects marks given. from that i finded top 5 from each subject, no of pass , fail students and pass student percentage .i have created graphs for same for each subject.
 
 
-##Setup
+## Setup
 
 	requirement file is given 
 	install it using pip as
@@ -10,7 +10,7 @@
 	
 	then run python file final.py from python3
 		python3 final.py
-###Note
+### Note
 	currently thios code is not adaptive nature needs csv file in same format no of subject may varry 
 	first 2 column are neccesory
 	
