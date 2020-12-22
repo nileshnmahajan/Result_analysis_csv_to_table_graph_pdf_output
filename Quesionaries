@@ -1,0 +1,18 @@
+1. Display SeatNumber, Name of Student , Marks of Top 5 students of each Subject Code
+
+2. Display SeatNumber, Name of Student , SGPA of Top 5 students As per SGPA
+
+3. Total Number of Failed Students of each Subject ( Hint: Number of records Having Grade 'F' [refer Grade column of each Subject])
+
+4. Total Number of Passed Students of each Subject (Hint: Count of Number or records - Number of records Having Grade 'F')
+
+5. Pass Percentage of Each subject [ Hint : Total Number of Passed Students of each Subject/Total Number of Failed Students of each Subject]
+
+6. Generate Histogram of each Subject Code (Marks, Grade, CP individually)
+
+All shoud be Store in single pdf file
+
+
+
+
+
