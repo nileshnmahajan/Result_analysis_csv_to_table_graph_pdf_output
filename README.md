@@ -6,10 +6,10 @@
 
 	requirement file is given 
 	install it using pip as
-	pip install -r requirement
+		pip install -r requirement
 	
 	then run python file final.py from python3
-	
+		python3 final.py
 ###Note
 	currently thios code is not adaptive nature needs csv file in same format no of subject may varry 
 	first 2 column are neccesory
